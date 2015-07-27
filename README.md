@@ -62,8 +62,8 @@ Case material needs to be non-metal (Don't block fight stick shakras).
 * Soldering iron
 
 #####RC circuits
-* Four 10kOhm resistors
-* 74HCT04N to invert R1, L1
+* Four [10kOhm](http://www.newark.com/multicomp/mcf-0-25w-10k/carbon-film-resistor-10kohm-250mw/dp/38K0328) resistors
+* [74HCT04N](http://www.newark.com/nxp/74hct04n/logic-ic/dp/07WX3520?ost=07WX3520&mckv=smvgks1nk_dc%7Cpcrid%7C72454414835%7Cplid%7C%7Ckword%7C74hct04n%7Cmatch%7Cp&CMP=KNC-GUSA-GEN-SKU-MDC&gclid=Cj0KEQjwrdetBRCJg92s44SB77IBEiQAEIWmVaLfq0JhDULh68peWacQjY0ij1wghnvvk99id84-crIaAmG08P8HAQ) to invert R1, L1
 
 ##How To Build
 @bruce leave some amazing sick instructions here.
