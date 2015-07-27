@@ -61,17 +61,19 @@ Case material needs to be non-metal (Don't block fight stick shakras).
 * Solder
 * Soldering iron
 
-
-Here are all my links to crap I bought:
-
-* [restrictor](http://www.amazon.com/gp/product/B004AU0H4U?psc=1&redirect=true&ref_=oh_aui_detailpage_o04_s00)
-* [joystick](http://www.amazon.com/gp/product/B0027Z7L5I?psc=1&redirect=true&ref_=oh_aui_detailpage_o05_s00)
-* [buttons](http://www.amazon.com/gp/product/B00367KDVU?psc=1&redirect=true&ref_=oh_aui_detailpage_o05_s00)
-* [Case Latches](http://www.twistedquarter.com/index.php?main_page=product_info&cPath=219_225&products_id=934&zenid=t18ela71q14gboo42d6r3ssn34)
-
 #####RC circuits
 * Four 10kOhm resistors
 * 74HCT04N to invert R1, L1
 
 ##How To Build
 @bruce leave some amazing sick instructions here.
+
+
+##Part List 
+//TODO (JPM) Make this another page.
+Here are all my links to crap I bought:
+
+* [restrictor](http://www.amazon.com/gp/product/B004AU0H4U?psc=1&redirect=true&ref_=oh_aui_detailpage_o04_s00)
+* [joystick](http://www.amazon.com/gp/product/B0027Z7L5I?psc=1&redirect=true&ref_=oh_aui_detailpage_o05_s00)
+* [buttons](http://www.amazon.com/gp/product/B00367KDVU?psc=1&redirect=true&ref_=oh_aui_detailpage_o05_s00)
+* [Case Latches](http://www.twistedquarter.com/index.php?main_page=product_info&cPath=219_225&products_id=934&zenid=t18ela71q14gboo42d6r3ssn34)
