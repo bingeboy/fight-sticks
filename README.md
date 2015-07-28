@@ -35,7 +35,10 @@ The follow outlines the mounts and holes for the case.
 * USB cable (for charging).
 
 ###Case Materials
-Case material needs to be non-metal (Don't block fight stick shakras).
+Case material needs to be non-metal.
+
+####Control Panel
+[5/8" for snap buttons](http://www.homedepot.ca/product/mdf-premium-5-8-x-49-x-97/935753) Link is only the correct thickness.
 
 **Future Proofing** May need to consider leaving some real estate either on the top or the portion facing away from you to put in switches
 
